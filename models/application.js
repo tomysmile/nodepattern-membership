@@ -7,6 +7,8 @@ var Application = function(args){
   app.confirm   = args.confirm;
   app.status    = "pending";
   app.message   = null;
+  app.user      = null;
+  app.log       = null;
 
   app.isValid   = function() {
     return app.status == "validated";
