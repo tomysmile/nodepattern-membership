@@ -1,5 +1,6 @@
 var assert  = require("assert");
 var utility = require("../lib/utility");
+
 var User = function(args) {
 
   assert.ok(args.email, "Email is required");

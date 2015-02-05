@@ -13,5 +13,9 @@
     "grunt-contrib-jshint": "^0.11.0",
     "grunt-contrib-watch": "^0.6.1",
     "should": "^4.6.3"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "secondthought": "0.0.4"
   }
 }
