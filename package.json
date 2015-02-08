@@ -1,6 +1,6 @@
 {
-  "name": "nodepattern-membership",
-  "version": "1.0.1",
+  "name": "membership",
+  "version": "1.0.2",
   "description": "a membership system patterned after Devise",
   "main": "index.js",
   "scripts": {
